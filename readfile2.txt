@@ -1,0 +1,4 @@
+this is the readfile2 file is creat and write it this content
+thank you for this
+zahid is also my buddy
+this file is to make for more line tutorial 
