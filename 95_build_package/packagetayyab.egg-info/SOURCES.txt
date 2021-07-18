@@ -1,6 +1,0 @@
-setup.py
-packagetayyab/__init__.py
-packagetayyab.egg-info/PKG-INFO
-packagetayyab.egg-info/SOURCES.txt
-packagetayyab.egg-info/dependency_links.txt
-packagetayyab.egg-info/top_level.txt
