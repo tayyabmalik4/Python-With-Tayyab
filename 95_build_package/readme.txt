@@ -1,0 +1,1 @@
+A README file contains information about other files in a directory or archive of computer ... "readme file" is also sometimes used generically, for files with a similar purpose. ... COPYING / LICENSE, Copyright and licensing information.
