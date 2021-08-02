@@ -36,3 +36,18 @@ a,b = b,a
 # a=b
 # b=temp
 print(a,b)
+
+# -------------when we want to input from user and show the values using list
+# //////this is the empty list now
+lst=[]
+# //////this is input from user and user tell about that how many numbers are store in the list
+l=int(input("Enter Values"))
+# /////this is the for loop to itrate the numbers 
+# /////we can't input without range function if we input in the integers
+# /////if we want to spacific number of indexs in the list than we use num in the place of l
+for i in range(0,l):
+    # /////unsing input function to the user which is store the values in the list
+    inp=int(input())
+    # /////using append function to append the values in the lists
+    lst.append(inp)
+print(lst)
